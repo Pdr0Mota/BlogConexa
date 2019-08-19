@@ -1,0 +1,19 @@
+Bem vindo ao BlogConexa.APP
+
+Nele você pode expressar sua opinião através de publicações e debater o assunto através de comentários nas mesmas.
+
+Projeto objetiva a aprendizagem das seguintes ferramentas:
+
+  -> Utilização do LAMP (Linux Apache Mysql PHP)
+  -> Utilização do Framework YII (versão 1.1.12) juntamente com o GIIX (ferramenta de auxílio do CRUD no YII)
+  
+O blog foi desenvolvido durante tempo experimental (+- 20 horas de desenvolvimento), por isto pode conter alguns 
+problemas de design e/ou funcionalidades. 
+
+Para testar em basta extrair o projeto para a pasta onde o seu YII foi instalado
+
+No meu caso:
+/var/www/html/yii-1.1.12/framework/
+
+Qualquer dúvidas/problemas, pode deixar um comentário que irei investigar!
+Obrigado =)
